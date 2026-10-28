@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 400" width="460" height="400">
+  <!-- invoice paper -->
+  <rect x="160" y="40" width="140" height="200" rx="12" fill="#ffffff"/>
+  <rect x="176" y="58" width="60" height="10" rx="5" fill="#7c3aed"/>
+  <rect x="176" y="84" width="108" height="6" rx="3" fill="#e5e7eb"/>
+  <rect x="176" y="100" width="108" height="6" rx="3" fill="#e5e7eb"/>
+  <rect x="176" y="116" width="80" height="6" rx="3" fill="#e5e7eb"/>
+  <rect x="176" y="140" width="108" height="6" rx="3" fill="#e5e7eb"/>
+  <rect x="176" y="156" width="108" height="6" rx="3" fill="#e5e7eb"/>
+  <rect x="176" y="172" width="70" height="6" rx="3" fill="#e5e7eb"/>
+  <rect x="204" y="200" width="80" height="24" rx="8" fill="#7c3aed"/>
+  <rect x="216" y="209" width="56" height="6" rx="3" fill="#ffffff"/>
+
+  <!-- calculator (left) -->
+  <rect x="30" y="130" width="100" height="130" rx="14" fill="#4c1d95"/>
+  <rect x="42" y="142" width="76" height="26" rx="6" fill="#ddd6fe"/>
+  <g fill="#a78bfa">
+    <rect x="42" y="180" width="20" height="16" rx="4"/>
+    <rect x="70" y="180" width="20" height="16" rx="4"/>
+    <rect x="98" y="180" width="20" height="16" rx="4"/>
+    <rect x="42" y="204" width="20" height="16" rx="4"/>
+    <rect x="70" y="204" width="20" height="16" rx="4"/>
+    <rect x="98" y="204" width="20" height="16" rx="4"/>
+    <rect x="42" y="228" width="20" height="16" rx="4"/>
+    <rect x="70" y="228" width="20" height="16" rx="4"/>
+  </g>
+  <rect x="98" y="228" width="20" height="16" rx="4" fill="#f59e0b"/>
+
+  <!-- growth chart (right) -->
+  <rect x="330" y="110" width="110" height="120" rx="14" fill="#ffffff"/>
+  <rect x="346" y="170" width="14" height="44" rx="3" fill="#c4b5fd"/>
+  <rect x="368" y="154" width="14" height="60" rx="3" fill="#a78bfa"/>
+  <rect x="390" y="138" width="14" height="76" rx="3" fill="#7c3aed"/>
+  <rect x="412" y="124" width="14" height="90" rx="3" fill="#4c1d95"/>
+  <path d="M348 160 L370 144 L392 128 L420 114" fill="none" stroke="#10b981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="114" r="4" fill="#10b981"/>
+
+  <!-- check card (top left) -->
+  <rect x="20" y="40" width="110" height="60" rx="12" fill="#ffffff"/>
+  <circle cx="48" cy="70" r="14" fill="#10b981"/>
+  <path d="M41 70 L46 75 L56 64" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="70" y="58" width="48" height="7" rx="3.5" fill="#e5e7eb"/>
+  <rect x="70" y="74" width="34" height="7" rx="3.5" fill="#e5e7eb"/>
+
+  <!-- gold rupee coin (bottom) -->
+  <circle cx="230" cy="315" r="42" fill="#f59e0b"/>
+  <circle cx="230" cy="315" r="33" fill="#fbbf24"/>
+  <path d="M215 301 H245 M215 311 H245 M219 301 C240 301 242 322 219 322 L241 340"
+        fill="none" stroke="#92400e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
